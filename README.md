@@ -1,3 +1,6 @@
+Youtube Presentation Link:
+https://youtu.be/Db49D5EQFDc
+
 # Smart Financial Coach
 
 An AI-powered subscription detector that helps users identify and manage recurring charges, saving money on forgotten subscriptions.
@@ -128,15 +131,6 @@ The subscription detection algorithm:
 ├── transactions.csv        # Sample transaction data
 └── README.md              # This file
 ```
-
-## Demo Video
-
-[Link to 5-7 minute presentation video covering:]
-- Problem explanation
-- Solution walkthrough
-- Live demo
-- Technical approach
-- Future enhancements
 
 ## Author
 
